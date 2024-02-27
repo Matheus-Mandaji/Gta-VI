@@ -27,7 +27,6 @@
 body{
     background-color: var(--cor-04);
     border: auto;
-    margin: auto;
 
 }
 
@@ -75,7 +74,7 @@ main{
     padding: 20px;
     padding-bottom: 30px;
     min-width: 900px;
-    max-width: 100px;
+    max-width: 1000px;
     text-align: justify;
 }
 
