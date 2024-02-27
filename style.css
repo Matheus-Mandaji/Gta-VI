@@ -102,11 +102,13 @@ main p{
 main strong{
     color: var(--cor-03);
     background-color: var(--cor-fundo-letras);
+    margin: auto;
 }
 
 main a{
     color: purple;
     text-decoration: none;
+    margin: auto;
 }
 
 main a:hover{
@@ -123,12 +125,6 @@ main h2{
     margin: 20px;
     padding-top: 20px;
     text-align: center;
-}
-
-article{
-    margin: auto;
-    min-width: 300px;
-    max-width: 300px;
 }
 
 div{
