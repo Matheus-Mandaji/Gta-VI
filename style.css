@@ -125,6 +125,13 @@ main h2{
     text-align: center;
 }
 
+article{
+    margin: auto;
+    min-width: 300px;
+    max-width: 300px;
+    text-align: justify;
+}
+
 div{
     position: relative;
     background-color: var(--cor-02);
