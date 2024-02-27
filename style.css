@@ -129,7 +129,6 @@ article{
     margin: auto;
     min-width: 300px;
     max-width: 300px;
-    text-align: justify;
 }
 
 div{
@@ -149,7 +148,7 @@ div > iframe{
 }
 
 img{
-    min-width: 500px;
+    min-width: 300px;
     max-width: 700px;
     margin: auto;
     display: block;
