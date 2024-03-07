@@ -86,6 +86,7 @@ main h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: normal;
     text-align: center;
+    display: block;
     margin: auto;
     margin-bottom: 20px;
     background-color: var(--cor-fundo-letras);
